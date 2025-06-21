@@ -1,0 +1,33 @@
+[i18n]
+commitEncoding = utf-8
+logOutputEncoding = utf-8
+
+*.vs
+*.Debug
+*.obj
+*.db
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.exp
+*.ilk
+*.exe
+*.pch
+*.suo
+*.res
+*.log
+*.VC.db
+*.ipch
+*.VC.VC.opendb
+*.recipe
+*.lib
+*.dll
+Client/default/Client.vcxproj.user
+*.enc
+*.xml
+*.sarif
+EngineSDK
+EngineSDK
+*.cso
+Engine/Private/Graphic_Device.cpp
